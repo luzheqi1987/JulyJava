@@ -104,7 +104,6 @@ public class TheMinKNumber {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		TheMinKNumber tmk = new TheMinKNumber();
 		int[] init = new int[] { 1, 5, 2, 7, 8, 9, 4, 2, 52, 75, 31 };
 		// int[] init = new int[] { 1, 2, 3, 4, 5, 6, 7};
@@ -114,5 +113,4 @@ public class TheMinKNumber {
 		}
 
 	}
-
 }
